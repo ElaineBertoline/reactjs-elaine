@@ -12,6 +12,23 @@
 
 </head>
 <body>
-<h1>Experiências</h1>
+<h1>Linguagens de Programaçâo</h1>
+ <h2>Experiências</h2> 
+    <ul> 
+        <li>HTML</li> 
+        <li>CSS</li> 
+        <li>PHP</li> 
+        <li>Bootstrap</li> 
+	<li>JQuery</li>
+	<li>JavaScript</li>
+ </ul>
+<h3>Cursos em Andamento</h3>
+  <ul> 
+        <li>BOOTSTRAP 4</li> 
+        <li>GIT HUB</li> 
+        <li>CIENTISTA DE DADOS</li> 
+	<LI> LINUX</li>
+
+ </ul>	
 </body>
 </html>
